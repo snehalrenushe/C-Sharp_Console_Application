@@ -1,0 +1,4 @@
+C:\Users\91842\Desktop\Prog_Snehal\C# Console\Internship\Assignment_1\12\12\bin\Debug\12.exe
+C:\Users\91842\Desktop\Prog_Snehal\C# Console\Internship\Assignment_1\12\12\bin\Debug\12.pdb
+C:\Users\91842\Desktop\Prog_Snehal\C# Console\Internship\Assignment_1\12\12\obj\x86\Debug\12.exe
+C:\Users\91842\Desktop\Prog_Snehal\C# Console\Internship\Assignment_1\12\12\obj\x86\Debug\12.pdb
